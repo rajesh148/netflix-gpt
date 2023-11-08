@@ -6,7 +6,7 @@ export const checkValidData = (email, password, name, isSignInForm) => {
     password
   );
 
-  const isNameValid = /\b([A-ZÀ-ÿ][-,a-z. ']+[ ]*)+/.test(name);
+  const isNameValid = /\b([A-Za-zÀ-ÿ][-,a-z. ']+[ ]*)+/.test(name);
 
   if (isSignInForm) {
     if (!isEmailValid) return "Email id is not valid!";
