@@ -29,6 +29,7 @@
 -Update store with TrailVide data
 -Embeded the youtube video in the /browse and make it autoplay and make it mute
 -Tailwind css classes to make Main container awesome
+-Build Secondary Component
 
 # FEATHERS THAT WE BUILD
 
