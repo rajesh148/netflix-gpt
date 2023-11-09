@@ -30,6 +30,17 @@
 -Embeded the youtube video in the /browse and make it autoplay and make it mute
 -Tailwind css classes to make Main container awesome
 -Build Secondary Component
+-Movies list
+-Movie card
+-Find out TMDB img CDN URL
+-Made the browse page amazing with Tailwind css
+
+-GPT search page
+-GPT search bar
+-Added Multilingual feature in gpt search page
+
+
+-
 
 # FEATHERS THAT WE BUILD
 
